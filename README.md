@@ -1,3 +1,4 @@
 # Project1
-My first repository on GitHub
+My first project in java. 
+Simple calculator
 Author : Abash Ansari
